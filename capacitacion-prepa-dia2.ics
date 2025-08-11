@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gnius Club//Capacitacion A.I. FIRST//ES
+BEGIN:VEVENT
+UID:20250815T140000Z-PREPA2@gnius.club
+DTSTAMP:20250808T120000Z
+DTSTART:20250815T140000Z
+DTEND:20250815T170000Z
+SUMMARY:Capacitación A.I. FIRST (Día 2) - Gnius Club
+DESCRIPTION:Capacitación oficial de Gnius Club. Día 2 de 2. El enlace para unirse es: https://meet.google.com/xko-oddh-fbz
+LOCATION:https://meet.google.com/xko-oddh-fbz
+END:VEVENT
+END:VCALENDAR
